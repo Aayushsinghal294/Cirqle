@@ -14,9 +14,7 @@ const Login = () => {
     if (currState === 'SignUp' && !isDataSubmitted) {
      setIsDataSubmitted(true);
      return;
-    } else {
-      
-    }
+    } 
   }
 
 
